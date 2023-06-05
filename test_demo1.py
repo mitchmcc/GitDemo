@@ -8,8 +8,8 @@ def test_demo1_test1(setup):
     print("Hello")
     # for Git demo
     print("Hello2")
-    print("Hello3")
     print("GitDemoX update")
+    print("GitDemoX update 2")
 
 @pytest.mark.smoke
 def test_demo1_test2_CreditCard(setup):
