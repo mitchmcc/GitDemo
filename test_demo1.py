@@ -9,6 +9,7 @@ def test_demo1_test1(setup):
     # for Git demo
     print("Hello2")
     print("Hello3")
+    print("GitDemoX update")
 
 @pytest.mark.smoke
 def test_demo1_test2_CreditCard(setup):
